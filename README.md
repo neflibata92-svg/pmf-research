@@ -6,6 +6,7 @@
 
 - `SKILL.md`：入口说明与参考文件导航
 - `references/research-workflow.md`：灵活的调研流程
+- `references/questionnaire-design.md`：问卷结构、题目、逻辑、预测试和分析计划
 - `references/evidence-and-methods.md`：证据质量与结果解释
 - `references/pmf-evidence-and-triangulation.md`：PMF 证据成熟度与多源综合
 - `references/templates.md`：调研简报、证据卡和决策摘要模板
